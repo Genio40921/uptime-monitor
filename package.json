@@ -50,7 +50,7 @@
     "@octokit/rest": "^18.5.2",
     "@sindresorhus/slugify": "^1.1.0",
     "axios": "^0.21.1",
-    "dayjs": "^1.10.4",
+    "dayjs": "^1.11.13",
     "fs-extra": "^9.1.0",
     "js-yaml": "^4.1.0",
     "node-libcurl": "^4.0.0",
